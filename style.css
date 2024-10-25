@@ -1,0 +1,42 @@
+#valid{
+display: flex;
+font-size: 25px;
+text-align: center;
+justify-content: center;
+margin-top: 30vh;
+}
+
+fieldset{
+    width: 250px;
+    border: solid 4px purple ;
+    border-radius: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(180, 35, 149);
+    box-shadow: 8px 8px 12px black;
+}
+
+#titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 30px;
+}
+
+#btn{
+    color: white;
+    background-color: rgb(58, 173, 58);
+    border-radius: 4px;
+    border: solid 1px black;
+    width: 90px;
+    height: 40px;
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(255, 46, 227);
+}
+
+input{
+    border-radius: 5px;
+}
+
